@@ -1,35 +1,32 @@
-# **YouTube:**
-
-## **Udemy (Free)**
-[OOPS](https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification/)
+# **Tutorials:**
 
 
-## **Durga Soft (203 Videos)**
+## **Books**
+[All Java frameworks](https://www.java67.com)
+[FreeBook Center](http://www.freebookcentre.net/Java-Books-Download/Introduction-to-Spring-Framework-(Rod-Johnson)-PDF.html)
+[Spring.io](https://docs.spring.io/spring-framework/docs/2.5.x/spring-reference.pdf)
+[Spring Framework- COOKBOOK](https://www.javacodegeeks.com/wp-content/uploads/2017/01/Spring-Framework-Cookbook.pdf)
 
-[Durga Soft](https://www.youtube.com/watch?v=eTXd89t8ngI&list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
-
-## **Spring boot**
-- [Spring Boot Tutorials for Beginners - in28minutes](https://www.youtube.com/watch?v=PSP1-2cN7vM)
-- [Spring Boot Tutorials for Beginners - in28minutes](https://www.youtube.com/watch?v=pcdpk3Yd1EA)
-- [Spring Boot Tutorials | Full Course - Telusko](https://www.youtube.com/watch?v=35EQXmHKZYs)
-
-## **Spring Boot/hibernate/JPA (Almost all powerful frameworks):**
-
-**Channel Name: Telusko,in28Minutes and Java Brains**
-
-
-# **Sites and Blogs:**
-- [Top 10 Java Blogs for Programmers of All Levels](https://stackify.com/java-blogs-for-programmers-of-all-levels/)
-- [14 Must-Read Blogs for Java Developers](https://phrase.com/blog/posts/14-must-read-blogs-for-java-developer/)
-- [A blog on Java](https://java2blog.com/)
-- [Top Java Websites](https://www.baeldung.com/java-blogs)
+## **Spring - Sites**
+[Spring Framework-tutorialspoint](https://www.tutorialspoint.com/spring/index.htm)
+[Hackr.io](https://hackr.io/tutorials/learn-java-spring-framework?sort=upvotes&type_tags%5B%5D=1)
+[JavaBeat Spring Tutorials](http://javabeat.net/spring-tutorials/)
+[Spring 4 Tutorials](http://javabeat.net/spring-4/)
+[Java T Point](http://www.javatpoint.com/spring-tutorial)
+[Mkyoung](http://www.mkyong.com/tutorials/spring-tutorials/)
 
 
-# **Objective Sites:**
+## **Java - Sites**
+[SoloLearn](https://qubit-labs.com/free-resources-learn-java-programming-online/)
+[SkillShare](https://www.skillshare.com/browse/java)
+[CodeMentor](https://www.codementor.io/collections/learn-java-bwbbwjibt#bwbc2era8)
+[Program Greek](https://www.programcreek.com/simple-java/)
+[Java Beginner Tutorials](https://javabeginnerstutorial.com/core-java-tutorial/)
 
-## **Java & Spring Frameworks**
-- [Spring Objective Questions](https://www.cppbuzz.com/spring/spring-objective-questions)
-- [Java Objective Questions](https://www.cppbuzz.com/java/java-objective-questions)
-- [MCQ Questions](https://compsciedu.com/mcq-questions/Java-Spring-Framework/Introduction-to-Spring)
-- [Spring Questions and Answers](https://www.sanfoundry.com/spring-multiple-choice-questions-answers/)
-- [Spring Quiz](https://www.tutorialspoint.com/spring/spring_online_quiz.htm)
+## **Hibernate - Sites**
+[Persistence API Fundamental - Udemy](https://www.udemy.com/course/hibernate-and-java-persistence-api-jpa-fundamentals)
+[Hibernate and JPA Fundamental](https://www.udemy.com/course/hibernate-and-jpa-fundamentals)
+[High Performance - Chargable](https://vladmihalcea.teachable.com/courses/)
+
+
+
